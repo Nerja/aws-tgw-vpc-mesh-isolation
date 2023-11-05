@@ -1,0 +1,3 @@
+name: aws-tgw-vpc-mesh-isolation
+runtime: go
+description: A minimal AWS Go Pulumi program
